@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+.a{ background-color:#00F; width:500px; height:100px; font-family:Verdana, Geneva, sans-serif; font-size:25px; color:#FFF}
+a{ text-decoration:none; font-family:Verdana, Geneva, sans-serif; size:16px}
+a:hover{text-decoration:underline}
+body{background-color:#0f0;}
+#clock {
+    color: #0f0;
+}
+.left_box{border:solid 2px #000;}
+
+.left_inner1 {
+    border: 5px solid #f00;  
+}
+.left_inner1:hover {
+    border: 5px solid #0f0;
+}
+.left_inner2 {
+    border: 5px solid #f00; 
+}
+.left_inner2:hover {
+    border: 5px solid #0f0;
+  
+}
+.left_inner3 {
+    border: 5px solid #f00;
+}
+.left_inner3:hover {
+    border: 5px solid #0f0; 
+}
+.left_inner4 {
+    border: 5px solid #f00;
+}
+.left_inner4:hover {
+    border: 5px solid #0f0;
+  
+}
+.right_box{border:solid 3px #000;}
